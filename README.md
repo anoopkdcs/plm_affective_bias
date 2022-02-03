@@ -4,3 +4,10 @@
 
 
 Download fine-tuned emotion prediction models: [Link](https://drive.google.com/drive/folders/1M_-B8WpByftRlk44tqQ9b-WrXv3rIj_X?usp=sharing) 
+
+**References
+[1] Yang, Z., Dai, Z., Yang, Y., Carbonell, J., Salakhutdinov, R.R., Le, Q.V.: Xlnet: Generalized autoregressive pretraining for language understanding. Advances in neural information processing systems 32 (2019). <\br>
+[2] Devlin, J., Chang, M.W., Lee, K., Toutanova, K.: BERT: Pre-training of deep bidirectional transformers for language understanding. In: Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers). pp. 4171–4186. Association for Computational Linguistics, Minneapolis, Minnesota (Jun 2019). <\br>
+[3] Kiritchenko, Svetlana, and Saif Mohammad. "Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems." Proceedings of the Seventh Joint Conference on Lexical and Computational Semantics. 2018. <\br>
+[4] Mohammad, S., Bravo-Marquez, F., Salameh, M., & Kiritchenko, S. (2018, June). Semeval-2018 task 1: Affect in tweets. In Proceedings of the 12th International workshop on semantic evaluation (pp. 1-17).
+
