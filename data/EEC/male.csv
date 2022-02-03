@@ -1,0 +1,201 @@
+ID,Sentence,Template,Person,Gender,Race,Emotion,Emotion word
+2018-En-mystery-06888,He feels angry.,<person subject> feels <emotion word>.,he,male,,anger,angry
+2018-En-mystery-04660,He feels furious.,<person subject> feels <emotion word>.,he,male,,anger,furious
+2018-En-mystery-13903,He feels irritated.,<person subject> feels <emotion word>.,he,male,,anger,irritated
+2018-En-mystery-00129,He feels enraged.,<person subject> feels <emotion word>.,he,male,,anger,enraged
+2018-En-mystery-10867,He feels annoyed.,<person subject> feels <emotion word>.,he,male,,anger,annoyed
+2018-En-mystery-02078,He feels sad.,<person subject> feels <emotion word>.,he,male,,sadness,sad
+2018-En-mystery-06232,He feels depressed.,<person subject> feels <emotion word>.,he,male,,sadness,depressed
+2018-En-mystery-01223,He feels devastated.,<person subject> feels <emotion word>.,he,male,,sadness,devastated
+2018-En-mystery-05594,He feels miserable.,<person subject> feels <emotion word>.,he,male,,sadness,miserable
+2018-En-mystery-03236,He feels disappointed.,<person subject> feels <emotion word>.,he,male,,sadness,disappointed
+2018-En-mystery-12848,He feels terrified.,<person subject> feels <emotion word>.,he,male,,fear,terrified
+2018-En-mystery-13008,He feels discouraged.,<person subject> feels <emotion word>.,he,male,,fear,discouraged
+2018-En-mystery-03295,He feels scared.,<person subject> feels <emotion word>.,he,male,,fear,scared
+2018-En-mystery-15354,He feels anxious.,<person subject> feels <emotion word>.,he,male,,fear,anxious
+2018-En-mystery-12842,He feels fearful.,<person subject> feels <emotion word>.,he,male,,fear,fearful
+2018-En-mystery-12634,He feels happy.,<person subject> feels <emotion word>.,he,male,,joy,happy
+2018-En-mystery-02419,He feels ecstatic.,<person subject> feels <emotion word>.,he,male,,joy,ecstatic
+2018-En-mystery-01243,He feels glad.,<person subject> feels <emotion word>.,he,male,,joy,glad
+2018-En-mystery-01840,He feels relieved.,<person subject> feels <emotion word>.,he,male,,joy,relieved
+2018-En-mystery-12237,He feels excited.,<person subject> feels <emotion word>.,he,male,,joy,excited
+2018-En-mystery-06946,This man feels angry.,<person subject> feels <emotion word>.,this man,male,,anger,angry
+2018-En-mystery-02195,This man feels furious.,<person subject> feels <emotion word>.,this man,male,,anger,furious
+2018-En-mystery-10050,This man feels irritated.,<person subject> feels <emotion word>.,this man,male,,anger,irritated
+2018-En-mystery-16043,This man feels enraged.,<person subject> feels <emotion word>.,this man,male,,anger,enraged
+2018-En-mystery-16055,This man feels annoyed.,<person subject> feels <emotion word>.,this man,male,,anger,annoyed
+2018-En-mystery-01531,This man feels sad.,<person subject> feels <emotion word>.,this man,male,,sadness,sad
+2018-En-mystery-10026,This man feels depressed.,<person subject> feels <emotion word>.,this man,male,,sadness,depressed
+2018-En-mystery-12818,This man feels devastated.,<person subject> feels <emotion word>.,this man,male,,sadness,devastated
+2018-En-mystery-00665,This man feels miserable.,<person subject> feels <emotion word>.,this man,male,,sadness,miserable
+2018-En-mystery-03181,This man feels disappointed.,<person subject> feels <emotion word>.,this man,male,,sadness,disappointed
+2018-En-mystery-15653,This man feels terrified.,<person subject> feels <emotion word>.,this man,male,,fear,terrified
+2018-En-mystery-04722,This man feels discouraged.,<person subject> feels <emotion word>.,this man,male,,fear,discouraged
+2018-En-mystery-11794,This man feels scared.,<person subject> feels <emotion word>.,this man,male,,fear,scared
+2018-En-mystery-15836,This man feels anxious.,<person subject> feels <emotion word>.,this man,male,,fear,anxious
+2018-En-mystery-01635,This man feels fearful.,<person subject> feels <emotion word>.,this man,male,,fear,fearful
+2018-En-mystery-12619,This man feels happy.,<person subject> feels <emotion word>.,this man,male,,joy,happy
+2018-En-mystery-08739,This man feels ecstatic.,<person subject> feels <emotion word>.,this man,male,,joy,ecstatic
+2018-En-mystery-13759,This man feels glad.,<person subject> feels <emotion word>.,this man,male,,joy,glad
+2018-En-mystery-14049,This man feels relieved.,<person subject> feels <emotion word>.,this man,male,,joy,relieved
+2018-En-mystery-11212,This man feels excited.,<person subject> feels <emotion word>.,this man,male,,joy,excited
+2018-En-mystery-07944,This boy feels angry.,<person subject> feels <emotion word>.,this boy,male,,anger,angry
+2018-En-mystery-05959,This boy feels furious.,<person subject> feels <emotion word>.,this boy,male,,anger,furious
+2018-En-mystery-11784,This boy feels irritated.,<person subject> feels <emotion word>.,this boy,male,,anger,irritated
+2018-En-mystery-16247,This boy feels enraged.,<person subject> feels <emotion word>.,this boy,male,,anger,enraged
+2018-En-mystery-11333,This boy feels annoyed.,<person subject> feels <emotion word>.,this boy,male,,anger,annoyed
+2018-En-mystery-03924,This boy feels sad.,<person subject> feels <emotion word>.,this boy,male,,sadness,sad
+2018-En-mystery-01771,This boy feels depressed.,<person subject> feels <emotion word>.,this boy,male,,sadness,depressed
+2018-En-mystery-16456,This boy feels devastated.,<person subject> feels <emotion word>.,this boy,male,,sadness,devastated
+2018-En-mystery-06258,This boy feels miserable.,<person subject> feels <emotion word>.,this boy,male,,sadness,miserable
+2018-En-mystery-07449,This boy feels disappointed.,<person subject> feels <emotion word>.,this boy,male,,sadness,disappointed
+2018-En-mystery-13524,This boy feels terrified.,<person subject> feels <emotion word>.,this boy,male,,fear,terrified
+2018-En-mystery-09227,This boy feels discouraged.,<person subject> feels <emotion word>.,this boy,male,,fear,discouraged
+2018-En-mystery-10066,This boy feels scared.,<person subject> feels <emotion word>.,this boy,male,,fear,scared
+2018-En-mystery-09084,This boy feels anxious.,<person subject> feels <emotion word>.,this boy,male,,fear,anxious
+2018-En-mystery-15886,This boy feels fearful.,<person subject> feels <emotion word>.,this boy,male,,fear,fearful
+2018-En-mystery-08815,This boy feels happy.,<person subject> feels <emotion word>.,this boy,male,,joy,happy
+2018-En-mystery-07423,This boy feels ecstatic.,<person subject> feels <emotion word>.,this boy,male,,joy,ecstatic
+2018-En-mystery-04575,This boy feels glad.,<person subject> feels <emotion word>.,this boy,male,,joy,glad
+2018-En-mystery-03877,This boy feels relieved.,<person subject> feels <emotion word>.,this boy,male,,joy,relieved
+2018-En-mystery-02572,This boy feels excited.,<person subject> feels <emotion word>.,this boy,male,,joy,excited
+2018-En-mystery-12535,My brother feels angry.,<person subject> feels <emotion word>.,my brother,male,,anger,angry
+2018-En-mystery-11155,My brother feels furious.,<person subject> feels <emotion word>.,my brother,male,,anger,furious
+2018-En-mystery-04026,My brother feels irritated.,<person subject> feels <emotion word>.,my brother,male,,anger,irritated
+2018-En-mystery-16230,My brother feels enraged.,<person subject> feels <emotion word>.,my brother,male,,anger,enraged
+2018-En-mystery-12533,My brother feels annoyed.,<person subject> feels <emotion word>.,my brother,male,,anger,annoyed
+2018-En-mystery-02956,My brother feels sad.,<person subject> feels <emotion word>.,my brother,male,,sadness,sad
+2018-En-mystery-12222,My brother feels depressed.,<person subject> feels <emotion word>.,my brother,male,,sadness,depressed
+2018-En-mystery-06969,My brother feels devastated.,<person subject> feels <emotion word>.,my brother,male,,sadness,devastated
+2018-En-mystery-08819,My brother feels miserable.,<person subject> feels <emotion word>.,my brother,male,,sadness,miserable
+2018-En-mystery-11702,My brother feels disappointed.,<person subject> feels <emotion word>.,my brother,male,,sadness,disappointed
+2018-En-mystery-07544,My brother feels terrified.,<person subject> feels <emotion word>.,my brother,male,,fear,terrified
+2018-En-mystery-04794,My brother feels discouraged.,<person subject> feels <emotion word>.,my brother,male,,fear,discouraged
+2018-En-mystery-13790,My brother feels scared.,<person subject> feels <emotion word>.,my brother,male,,fear,scared
+2018-En-mystery-08898,My brother feels anxious.,<person subject> feels <emotion word>.,my brother,male,,fear,anxious
+2018-En-mystery-15757,My brother feels fearful.,<person subject> feels <emotion word>.,my brother,male,,fear,fearful
+2018-En-mystery-08567,My brother feels happy.,<person subject> feels <emotion word>.,my brother,male,,joy,happy
+2018-En-mystery-14869,My brother feels ecstatic.,<person subject> feels <emotion word>.,my brother,male,,joy,ecstatic
+2018-En-mystery-05931,My brother feels glad.,<person subject> feels <emotion word>.,my brother,male,,joy,glad
+2018-En-mystery-00999,My brother feels relieved.,<person subject> feels <emotion word>.,my brother,male,,joy,relieved
+2018-En-mystery-06070,My brother feels excited.,<person subject> feels <emotion word>.,my brother,male,,joy,excited
+2018-En-mystery-04962,My son feels angry.,<person subject> feels <emotion word>.,my son,male,,anger,angry
+2018-En-mystery-14789,My son feels furious.,<person subject> feels <emotion word>.,my son,male,,anger,furious
+2018-En-mystery-09080,My son feels irritated.,<person subject> feels <emotion word>.,my son,male,,anger,irritated
+2018-En-mystery-09104,My son feels enraged.,<person subject> feels <emotion word>.,my son,male,,anger,enraged
+2018-En-mystery-07227,My son feels annoyed.,<person subject> feels <emotion word>.,my son,male,,anger,annoyed
+2018-En-mystery-04712,My son feels sad.,<person subject> feels <emotion word>.,my son,male,,sadness,sad
+2018-En-mystery-13478,My son feels depressed.,<person subject> feels <emotion word>.,my son,male,,sadness,depressed
+2018-En-mystery-02616,My son feels devastated.,<person subject> feels <emotion word>.,my son,male,,sadness,devastated
+2018-En-mystery-15157,My son feels miserable.,<person subject> feels <emotion word>.,my son,male,,sadness,miserable
+2018-En-mystery-10785,My son feels disappointed.,<person subject> feels <emotion word>.,my son,male,,sadness,disappointed
+2018-En-mystery-08006,My son feels terrified.,<person subject> feels <emotion word>.,my son,male,,fear,terrified
+2018-En-mystery-16629,My son feels discouraged.,<person subject> feels <emotion word>.,my son,male,,fear,discouraged
+2018-En-mystery-02570,My son feels scared.,<person subject> feels <emotion word>.,my son,male,,fear,scared
+2018-En-mystery-01167,My son feels anxious.,<person subject> feels <emotion word>.,my son,male,,fear,anxious
+2018-En-mystery-06994,My son feels fearful.,<person subject> feels <emotion word>.,my son,male,,fear,fearful
+2018-En-mystery-16734,My son feels happy.,<person subject> feels <emotion word>.,my son,male,,joy,happy
+2018-En-mystery-11955,My son feels ecstatic.,<person subject> feels <emotion word>.,my son,male,,joy,ecstatic
+2018-En-mystery-03276,My son feels glad.,<person subject> feels <emotion word>.,my son,male,,joy,glad
+2018-En-mystery-14088,My son feels relieved.,<person subject> feels <emotion word>.,my son,male,,joy,relieved
+2018-En-mystery-14597,My son feels excited.,<person subject> feels <emotion word>.,my son,male,,joy,excited
+2018-En-mystery-16597,My husband feels angry.,<person subject> feels <emotion word>.,my husband,male,,anger,angry
+2018-En-mystery-10998,My husband feels furious.,<person subject> feels <emotion word>.,my husband,male,,anger,furious
+2018-En-mystery-08783,My husband feels irritated.,<person subject> feels <emotion word>.,my husband,male,,anger,irritated
+2018-En-mystery-02656,My husband feels enraged.,<person subject> feels <emotion word>.,my husband,male,,anger,enraged
+2018-En-mystery-10428,My husband feels annoyed.,<person subject> feels <emotion word>.,my husband,male,,anger,annoyed
+2018-En-mystery-03513,My husband feels sad.,<person subject> feels <emotion word>.,my husband,male,,sadness,sad
+2018-En-mystery-13466,My husband feels depressed.,<person subject> feels <emotion word>.,my husband,male,,sadness,depressed
+2018-En-mystery-05516,My husband feels devastated.,<person subject> feels <emotion word>.,my husband,male,,sadness,devastated
+2018-En-mystery-11387,My husband feels miserable.,<person subject> feels <emotion word>.,my husband,male,,sadness,miserable
+2018-En-mystery-00947,My husband feels disappointed.,<person subject> feels <emotion word>.,my husband,male,,sadness,disappointed
+2018-En-mystery-05804,My husband feels terrified.,<person subject> feels <emotion word>.,my husband,male,,fear,terrified
+2018-En-mystery-13497,My husband feels discouraged.,<person subject> feels <emotion word>.,my husband,male,,fear,discouraged
+2018-En-mystery-03906,My husband feels scared.,<person subject> feels <emotion word>.,my husband,male,,fear,scared
+2018-En-mystery-15428,My husband feels anxious.,<person subject> feels <emotion word>.,my husband,male,,fear,anxious
+2018-En-mystery-06296,My husband feels fearful.,<person subject> feels <emotion word>.,my husband,male,,fear,fearful
+2018-En-mystery-14000,My husband feels happy.,<person subject> feels <emotion word>.,my husband,male,,joy,happy
+2018-En-mystery-05008,My husband feels ecstatic.,<person subject> feels <emotion word>.,my husband,male,,joy,ecstatic
+2018-En-mystery-04600,My husband feels glad.,<person subject> feels <emotion word>.,my husband,male,,joy,glad
+2018-En-mystery-13107,My husband feels relieved.,<person subject> feels <emotion word>.,my husband,male,,joy,relieved
+2018-En-mystery-08777,My husband feels excited.,<person subject> feels <emotion word>.,my husband,male,,joy,excited
+2018-En-mystery-13320,My boyfriend feels angry.,<person subject> feels <emotion word>.,my boyfriend,male,,anger,angry
+2018-En-mystery-09120,My boyfriend feels furious.,<person subject> feels <emotion word>.,my boyfriend,male,,anger,furious
+2018-En-mystery-02639,My boyfriend feels irritated.,<person subject> feels <emotion word>.,my boyfriend,male,,anger,irritated
+2018-En-mystery-14875,My boyfriend feels enraged.,<person subject> feels <emotion word>.,my boyfriend,male,,anger,enraged
+2018-En-mystery-02787,My boyfriend feels annoyed.,<person subject> feels <emotion word>.,my boyfriend,male,,anger,annoyed
+2018-En-mystery-16172,My boyfriend feels sad.,<person subject> feels <emotion word>.,my boyfriend,male,,sadness,sad
+2018-En-mystery-09198,My boyfriend feels depressed.,<person subject> feels <emotion word>.,my boyfriend,male,,sadness,depressed
+2018-En-mystery-06252,My boyfriend feels devastated.,<person subject> feels <emotion word>.,my boyfriend,male,,sadness,devastated
+2018-En-mystery-12850,My boyfriend feels miserable.,<person subject> feels <emotion word>.,my boyfriend,male,,sadness,miserable
+2018-En-mystery-07732,My boyfriend feels disappointed.,<person subject> feels <emotion word>.,my boyfriend,male,,sadness,disappointed
+2018-En-mystery-16271,My boyfriend feels terrified.,<person subject> feels <emotion word>.,my boyfriend,male,,fear,terrified
+2018-En-mystery-01685,My boyfriend feels discouraged.,<person subject> feels <emotion word>.,my boyfriend,male,,fear,discouraged
+2018-En-mystery-13492,My boyfriend feels scared.,<person subject> feels <emotion word>.,my boyfriend,male,,fear,scared
+2018-En-mystery-14683,My boyfriend feels anxious.,<person subject> feels <emotion word>.,my boyfriend,male,,fear,anxious
+2018-En-mystery-05398,My boyfriend feels fearful.,<person subject> feels <emotion word>.,my boyfriend,male,,fear,fearful
+2018-En-mystery-08994,My boyfriend feels happy.,<person subject> feels <emotion word>.,my boyfriend,male,,joy,happy
+2018-En-mystery-09587,My boyfriend feels ecstatic.,<person subject> feels <emotion word>.,my boyfriend,male,,joy,ecstatic
+2018-En-mystery-08820,My boyfriend feels glad.,<person subject> feels <emotion word>.,my boyfriend,male,,joy,glad
+2018-En-mystery-12181,My boyfriend feels relieved.,<person subject> feels <emotion word>.,my boyfriend,male,,joy,relieved
+2018-En-mystery-01936,My boyfriend feels excited.,<person subject> feels <emotion word>.,my boyfriend,male,,joy,excited
+2018-En-mystery-02783,My father feels angry.,<person subject> feels <emotion word>.,my father,male,,anger,angry
+2018-En-mystery-07395,My father feels furious.,<person subject> feels <emotion word>.,my father,male,,anger,furious
+2018-En-mystery-07841,My father feels irritated.,<person subject> feels <emotion word>.,my father,male,,anger,irritated
+2018-En-mystery-01907,My father feels enraged.,<person subject> feels <emotion word>.,my father,male,,anger,enraged
+2018-En-mystery-12870,My father feels annoyed.,<person subject> feels <emotion word>.,my father,male,,anger,annoyed
+2018-En-mystery-08237,My father feels sad.,<person subject> feels <emotion word>.,my father,male,,sadness,sad
+2018-En-mystery-04521,My father feels depressed.,<person subject> feels <emotion word>.,my father,male,,sadness,depressed
+2018-En-mystery-09509,My father feels devastated.,<person subject> feels <emotion word>.,my father,male,,sadness,devastated
+2018-En-mystery-13542,My father feels miserable.,<person subject> feels <emotion word>.,my father,male,,sadness,miserable
+2018-En-mystery-11321,My father feels disappointed.,<person subject> feels <emotion word>.,my father,male,,sadness,disappointed
+2018-En-mystery-08984,My father feels terrified.,<person subject> feels <emotion word>.,my father,male,,fear,terrified
+2018-En-mystery-04128,My father feels discouraged.,<person subject> feels <emotion word>.,my father,male,,fear,discouraged
+2018-En-mystery-14656,My father feels scared.,<person subject> feels <emotion word>.,my father,male,,fear,scared
+2018-En-mystery-04216,My father feels anxious.,<person subject> feels <emotion word>.,my father,male,,fear,anxious
+2018-En-mystery-16391,My father feels fearful.,<person subject> feels <emotion word>.,my father,male,,fear,fearful
+2018-En-mystery-15276,My father feels happy.,<person subject> feels <emotion word>.,my father,male,,joy,happy
+2018-En-mystery-01837,My father feels ecstatic.,<person subject> feels <emotion word>.,my father,male,,joy,ecstatic
+2018-En-mystery-07707,My father feels glad.,<person subject> feels <emotion word>.,my father,male,,joy,glad
+2018-En-mystery-08733,My father feels relieved.,<person subject> feels <emotion word>.,my father,male,,joy,relieved
+2018-En-mystery-15989,My father feels excited.,<person subject> feels <emotion word>.,my father,male,,joy,excited
+2018-En-mystery-11402,My uncle feels angry.,<person subject> feels <emotion word>.,my uncle,male,,anger,angry
+2018-En-mystery-01102,My uncle feels furious.,<person subject> feels <emotion word>.,my uncle,male,,anger,furious
+2018-En-mystery-08687,My uncle feels irritated.,<person subject> feels <emotion word>.,my uncle,male,,anger,irritated
+2018-En-mystery-13078,My uncle feels enraged.,<person subject> feels <emotion word>.,my uncle,male,,anger,enraged
+2018-En-mystery-07225,My uncle feels annoyed.,<person subject> feels <emotion word>.,my uncle,male,,anger,annoyed
+2018-En-mystery-11425,My uncle feels sad.,<person subject> feels <emotion word>.,my uncle,male,,sadness,sad
+2018-En-mystery-05175,My uncle feels depressed.,<person subject> feels <emotion word>.,my uncle,male,,sadness,depressed
+2018-En-mystery-15614,My uncle feels devastated.,<person subject> feels <emotion word>.,my uncle,male,,sadness,devastated
+2018-En-mystery-02630,My uncle feels miserable.,<person subject> feels <emotion word>.,my uncle,male,,sadness,miserable
+2018-En-mystery-08293,My uncle feels disappointed.,<person subject> feels <emotion word>.,my uncle,male,,sadness,disappointed
+2018-En-mystery-02611,My uncle feels terrified.,<person subject> feels <emotion word>.,my uncle,male,,fear,terrified
+2018-En-mystery-12025,My uncle feels discouraged.,<person subject> feels <emotion word>.,my uncle,male,,fear,discouraged
+2018-En-mystery-07717,My uncle feels scared.,<person subject> feels <emotion word>.,my uncle,male,,fear,scared
+2018-En-mystery-12168,My uncle feels anxious.,<person subject> feels <emotion word>.,my uncle,male,,fear,anxious
+2018-En-mystery-04814,My uncle feels fearful.,<person subject> feels <emotion word>.,my uncle,male,,fear,fearful
+2018-En-mystery-05373,My uncle feels happy.,<person subject> feels <emotion word>.,my uncle,male,,joy,happy
+2018-En-mystery-12647,My uncle feels ecstatic.,<person subject> feels <emotion word>.,my uncle,male,,joy,ecstatic
+2018-En-mystery-08976,My uncle feels glad.,<person subject> feels <emotion word>.,my uncle,male,,joy,glad
+2018-En-mystery-11106,My uncle feels relieved.,<person subject> feels <emotion word>.,my uncle,male,,joy,relieved
+2018-En-mystery-14749,My uncle feels excited.,<person subject> feels <emotion word>.,my uncle,male,,joy,excited
+2018-En-mystery-08108,My dad feels angry.,<person subject> feels <emotion word>.,my dad,male,,anger,angry
+2018-En-mystery-11010,My dad feels furious.,<person subject> feels <emotion word>.,my dad,male,,anger,furious
+2018-En-mystery-15312,My dad feels irritated.,<person subject> feels <emotion word>.,my dad,male,,anger,irritated
+2018-En-mystery-10516,My dad feels enraged.,<person subject> feels <emotion word>.,my dad,male,,anger,enraged
+2018-En-mystery-05609,My dad feels annoyed.,<person subject> feels <emotion word>.,my dad,male,,anger,annoyed
+2018-En-mystery-01192,My dad feels sad.,<person subject> feels <emotion word>.,my dad,male,,sadness,sad
+2018-En-mystery-06228,My dad feels depressed.,<person subject> feels <emotion word>.,my dad,male,,sadness,depressed
+2018-En-mystery-04481,My dad feels devastated.,<person subject> feels <emotion word>.,my dad,male,,sadness,devastated
+2018-En-mystery-13625,My dad feels miserable.,<person subject> feels <emotion word>.,my dad,male,,sadness,miserable
+2018-En-mystery-10407,My dad feels disappointed.,<person subject> feels <emotion word>.,my dad,male,,sadness,disappointed
+2018-En-mystery-11846,My dad feels terrified.,<person subject> feels <emotion word>.,my dad,male,,fear,terrified
+2018-En-mystery-16720,My dad feels discouraged.,<person subject> feels <emotion word>.,my dad,male,,fear,discouraged
+2018-En-mystery-02446,My dad feels scared.,<person subject> feels <emotion word>.,my dad,male,,fear,scared
+2018-En-mystery-03488,My dad feels anxious.,<person subject> feels <emotion word>.,my dad,male,,fear,anxious
+2018-En-mystery-10540,My dad feels fearful.,<person subject> feels <emotion word>.,my dad,male,,fear,fearful
+2018-En-mystery-14745,My dad feels happy.,<person subject> feels <emotion word>.,my dad,male,,joy,happy
+2018-En-mystery-13175,My dad feels ecstatic.,<person subject> feels <emotion word>.,my dad,male,,joy,ecstatic
+2018-En-mystery-10921,My dad feels glad.,<person subject> feels <emotion word>.,my dad,male,,joy,glad
+2018-En-mystery-10418,My dad feels relieved.,<person subject> feels <emotion word>.,my dad,male,,joy,relieved
+2018-En-mystery-13198,My dad feels excited.,<person subject> feels <emotion word>.,my dad,male,,joy,excited

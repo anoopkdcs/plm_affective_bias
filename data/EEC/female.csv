@@ -1,0 +1,201 @@
+ID,Sentence,Template,Person,Gender,Race,Emotion,Emotion word
+2018+AC0-En+AC0-mystery+AC0-04148,She feels angry.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,she,female,,anger,angry
+2018+AC0-En+AC0-mystery+AC0-07020,She feels furious.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,she,female,,anger,furious
+2018+AC0-En+AC0-mystery+AC0-06265,She feels irritated.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,she,female,,anger,irritated
+2018+AC0-En+AC0-mystery+AC0-15897,She feels enraged.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,she,female,,anger,enraged
+2018+AC0-En+AC0-mystery+AC0-09561,She feels annoyed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,she,female,,anger,annoyed
+2018+AC0-En+AC0-mystery+AC0-07143,She feels sad.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,she,female,,sadness,sad
+2018+AC0-En+AC0-mystery+AC0-02705,She feels depressed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,she,female,,sadness,depressed
+2018+AC0-En+AC0-mystery+AC0-00795,She feels devastated.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,she,female,,sadness,devastated
+2018+AC0-En+AC0-mystery+AC0-16823,She feels miserable.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,she,female,,sadness,miserable
+2018+AC0-En+AC0-mystery+AC0-08279,She feels disappointed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,she,female,,sadness,disappointed
+2018+AC0-En+AC0-mystery+AC0-07174,She feels terrified.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,she,female,,fear,terrified
+2018+AC0-En+AC0-mystery+AC0-16307,She feels discouraged.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,she,female,,fear,discouraged
+2018+AC0-En+AC0-mystery+AC0-14256,She feels scared.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,she,female,,fear,scared
+2018+AC0-En+AC0-mystery+AC0-14021,She feels anxious.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,she,female,,fear,anxious
+2018+AC0-En+AC0-mystery+AC0-06801,She feels fearful.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,she,female,,fear,fearful
+2018+AC0-En+AC0-mystery+AC0-05562,She feels happy.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,she,female,,joy,happy
+2018+AC0-En+AC0-mystery+AC0-09025,She feels ecstatic.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,she,female,,joy,ecstatic
+2018+AC0-En+AC0-mystery+AC0-05493,She feels glad.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,she,female,,joy,glad
+2018+AC0-En+AC0-mystery+AC0-00334,She feels relieved.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,she,female,,joy,relieved
+2018+AC0-En+AC0-mystery+AC0-14876,She feels excited.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,she,female,,joy,excited
+2018+AC0-En+AC0-mystery+AC0-13368,This woman feels angry.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this woman,female,,anger,angry
+2018+AC0-En+AC0-mystery+AC0-15355,This woman feels furious.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this woman,female,,anger,furious
+2018+AC0-En+AC0-mystery+AC0-03010,This woman feels irritated.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this woman,female,,anger,irritated
+2018+AC0-En+AC0-mystery+AC0-06671,This woman feels enraged.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this woman,female,,anger,enraged
+2018+AC0-En+AC0-mystery+AC0-00900,This woman feels annoyed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this woman,female,,anger,annoyed
+2018+AC0-En+AC0-mystery+AC0-10791,This woman feels sad.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this woman,female,,sadness,sad
+2018+AC0-En+AC0-mystery+AC0-00011,This woman feels depressed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this woman,female,,sadness,depressed
+2018+AC0-En+AC0-mystery+AC0-01039,This woman feels devastated.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this woman,female,,sadness,devastated
+2018+AC0-En+AC0-mystery+AC0-08781,This woman feels miserable.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this woman,female,,sadness,miserable
+2018+AC0-En+AC0-mystery+AC0-09589,This woman feels disappointed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this woman,female,,sadness,disappointed
+2018+AC0-En+AC0-mystery+AC0-03586,This woman feels terrified.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this woman,female,,fear,terrified
+2018+AC0-En+AC0-mystery+AC0-11282,This woman feels discouraged.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this woman,female,,fear,discouraged
+2018+AC0-En+AC0-mystery+AC0-04581,This woman feels scared.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this woman,female,,fear,scared
+2018+AC0-En+AC0-mystery+AC0-08869,This woman feels anxious.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this woman,female,,fear,anxious
+2018+AC0-En+AC0-mystery+AC0-05570,This woman feels fearful.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this woman,female,,fear,fearful
+2018+AC0-En+AC0-mystery+AC0-12320,This woman feels happy.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this woman,female,,joy,happy
+2018+AC0-En+AC0-mystery+AC0-07468,This woman feels ecstatic.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this woman,female,,joy,ecstatic
+2018+AC0-En+AC0-mystery+AC0-11151,This woman feels glad.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this woman,female,,joy,glad
+2018+AC0-En+AC0-mystery+AC0-01896,This woman feels relieved.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this woman,female,,joy,relieved
+2018+AC0-En+AC0-mystery+AC0-13629,This woman feels excited.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this woman,female,,joy,excited
+2018+AC0-En+AC0-mystery+AC0-14038,This girl feels angry.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this girl,female,,anger,angry
+2018+AC0-En+AC0-mystery+AC0-03346,This girl feels furious.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this girl,female,,anger,furious
+2018+AC0-En+AC0-mystery+AC0-02282,This girl feels irritated.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this girl,female,,anger,irritated
+2018+AC0-En+AC0-mystery+AC0-07130,This girl feels enraged.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this girl,female,,anger,enraged
+2018+AC0-En+AC0-mystery+AC0-01418,This girl feels annoyed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this girl,female,,anger,annoyed
+2018+AC0-En+AC0-mystery+AC0-03552,This girl feels sad.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this girl,female,,sadness,sad
+2018+AC0-En+AC0-mystery+AC0-00723,This girl feels depressed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this girl,female,,sadness,depressed
+2018+AC0-En+AC0-mystery+AC0-13377,This girl feels devastated.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this girl,female,,sadness,devastated
+2018+AC0-En+AC0-mystery+AC0-14187,This girl feels miserable.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this girl,female,,sadness,miserable
+2018+AC0-En+AC0-mystery+AC0-11059,This girl feels disappointed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this girl,female,,sadness,disappointed
+2018+AC0-En+AC0-mystery+AC0-04408,This girl feels terrified.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this girl,female,,fear,terrified
+2018+AC0-En+AC0-mystery+AC0-16453,This girl feels discouraged.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this girl,female,,fear,discouraged
+2018+AC0-En+AC0-mystery+AC0-00340,This girl feels scared.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this girl,female,,fear,scared
+2018+AC0-En+AC0-mystery+AC0-16567,This girl feels anxious.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this girl,female,,fear,anxious
+2018+AC0-En+AC0-mystery+AC0-13591,This girl feels fearful.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this girl,female,,fear,fearful
+2018+AC0-En+AC0-mystery+AC0-03823,This girl feels happy.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this girl,female,,joy,happy
+2018+AC0-En+AC0-mystery+AC0-03786,This girl feels ecstatic.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this girl,female,,joy,ecstatic
+2018+AC0-En+AC0-mystery+AC0-05852,This girl feels glad.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this girl,female,,joy,glad
+2018+AC0-En+AC0-mystery+AC0-12216,This girl feels relieved.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this girl,female,,joy,relieved
+2018+AC0-En+AC0-mystery+AC0-05733,This girl feels excited.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,this girl,female,,joy,excited
+2018+AC0-En+AC0-mystery+AC0-16404,My sister feels angry.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my sister,female,,anger,angry
+2018+AC0-En+AC0-mystery+AC0-09095,My sister feels furious.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my sister,female,,anger,furious
+2018+AC0-En+AC0-mystery+AC0-12982,My sister feels irritated.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my sister,female,,anger,irritated
+2018+AC0-En+AC0-mystery+AC0-00188,My sister feels enraged.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my sister,female,,anger,enraged
+2018+AC0-En+AC0-mystery+AC0-14213,My sister feels annoyed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my sister,female,,anger,annoyed
+2018+AC0-En+AC0-mystery+AC0-14233,My sister feels sad.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my sister,female,,sadness,sad
+2018+AC0-En+AC0-mystery+AC0-01792,My sister feels depressed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my sister,female,,sadness,depressed
+2018+AC0-En+AC0-mystery+AC0-08745,My sister feels devastated.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my sister,female,,sadness,devastated
+2018+AC0-En+AC0-mystery+AC0-06305,My sister feels miserable.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my sister,female,,sadness,miserable
+2018+AC0-En+AC0-mystery+AC0-11785,My sister feels disappointed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my sister,female,,sadness,disappointed
+2018+AC0-En+AC0-mystery+AC0-08852,My sister feels terrified.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my sister,female,,fear,terrified
+2018+AC0-En+AC0-mystery+AC0-03582,My sister feels discouraged.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my sister,female,,fear,discouraged
+2018+AC0-En+AC0-mystery+AC0-07777,My sister feels scared.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my sister,female,,fear,scared
+2018+AC0-En+AC0-mystery+AC0-00254,My sister feels anxious.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my sister,female,,fear,anxious
+2018+AC0-En+AC0-mystery+AC0-05451,My sister feels fearful.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my sister,female,,fear,fearful
+2018+AC0-En+AC0-mystery+AC0-05179,My sister feels happy.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my sister,female,,joy,happy
+2018+AC0-En+AC0-mystery+AC0-07051,My sister feels ecstatic.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my sister,female,,joy,ecstatic
+2018+AC0-En+AC0-mystery+AC0-11548,My sister feels glad.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my sister,female,,joy,glad
+2018+AC0-En+AC0-mystery+AC0-10655,My sister feels relieved.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my sister,female,,joy,relieved
+2018+AC0-En+AC0-mystery+AC0-04514,My sister feels excited.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my sister,female,,joy,excited
+2018+AC0-En+AC0-mystery+AC0-08962,My daughter feels angry.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my daughter,female,,anger,angry
+2018+AC0-En+AC0-mystery+AC0-02748,My daughter feels furious.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my daughter,female,,anger,furious
+2018+AC0-En+AC0-mystery+AC0-05052,My daughter feels irritated.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my daughter,female,,anger,irritated
+2018+AC0-En+AC0-mystery+AC0-04012,My daughter feels enraged.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my daughter,female,,anger,enraged
+2018+AC0-En+AC0-mystery+AC0-06594,My daughter feels annoyed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my daughter,female,,anger,annoyed
+2018+AC0-En+AC0-mystery+AC0-01338,My daughter feels sad.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my daughter,female,,sadness,sad
+2018+AC0-En+AC0-mystery+AC0-12681,My daughter feels depressed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my daughter,female,,sadness,depressed
+2018+AC0-En+AC0-mystery+AC0-04476,My daughter feels devastated.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my daughter,female,,sadness,devastated
+2018+AC0-En+AC0-mystery+AC0-01109,My daughter feels miserable.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my daughter,female,,sadness,miserable
+2018+AC0-En+AC0-mystery+AC0-08048,My daughter feels disappointed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my daughter,female,,sadness,disappointed
+2018+AC0-En+AC0-mystery+AC0-15715,My daughter feels terrified.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my daughter,female,,fear,terrified
+2018+AC0-En+AC0-mystery+AC0-07009,My daughter feels discouraged.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my daughter,female,,fear,discouraged
+2018+AC0-En+AC0-mystery+AC0-16092,My daughter feels scared.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my daughter,female,,fear,scared
+2018+AC0-En+AC0-mystery+AC0-11045,My daughter feels anxious.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my daughter,female,,fear,anxious
+2018+AC0-En+AC0-mystery+AC0-04372,My daughter feels fearful.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my daughter,female,,fear,fearful
+2018+AC0-En+AC0-mystery+AC0-15623,My daughter feels happy.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my daughter,female,,joy,happy
+2018+AC0-En+AC0-mystery+AC0-12442,My daughter feels ecstatic.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my daughter,female,,joy,ecstatic
+2018+AC0-En+AC0-mystery+AC0-11774,My daughter feels glad.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my daughter,female,,joy,glad
+2018+AC0-En+AC0-mystery+AC0-00150,My daughter feels relieved.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my daughter,female,,joy,relieved
+2018+AC0-En+AC0-mystery+AC0-07870,My daughter feels excited.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my daughter,female,,joy,excited
+2018+AC0-En+AC0-mystery+AC0-01645,My wife feels angry.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my wife,female,,anger,angry
+2018+AC0-En+AC0-mystery+AC0-02452,My wife feels furious.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my wife,female,,anger,furious
+2018+AC0-En+AC0-mystery+AC0-03570,My wife feels irritated.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my wife,female,,anger,irritated
+2018+AC0-En+AC0-mystery+AC0-02047,My wife feels enraged.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my wife,female,,anger,enraged
+2018+AC0-En+AC0-mystery+AC0-09881,My wife feels annoyed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my wife,female,,anger,annoyed
+2018+AC0-En+AC0-mystery+AC0-00942,My wife feels sad.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my wife,female,,sadness,sad
+2018+AC0-En+AC0-mystery+AC0-02667,My wife feels depressed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my wife,female,,sadness,depressed
+2018+AC0-En+AC0-mystery+AC0-06326,My wife feels devastated.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my wife,female,,sadness,devastated
+2018+AC0-En+AC0-mystery+AC0-02210,My wife feels miserable.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my wife,female,,sadness,miserable
+2018+AC0-En+AC0-mystery+AC0-01615,My wife feels disappointed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my wife,female,,sadness,disappointed
+2018+AC0-En+AC0-mystery+AC0-08527,My wife feels terrified.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my wife,female,,fear,terrified
+2018+AC0-En+AC0-mystery+AC0-07055,My wife feels discouraged.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my wife,female,,fear,discouraged
+2018+AC0-En+AC0-mystery+AC0-13235,My wife feels scared.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my wife,female,,fear,scared
+2018+AC0-En+AC0-mystery+AC0-11501,My wife feels anxious.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my wife,female,,fear,anxious
+2018+AC0-En+AC0-mystery+AC0-10804,My wife feels fearful.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my wife,female,,fear,fearful
+2018+AC0-En+AC0-mystery+AC0-01354,My wife feels happy.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my wife,female,,joy,happy
+2018+AC0-En+AC0-mystery+AC0-03273,My wife feels ecstatic.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my wife,female,,joy,ecstatic
+2018+AC0-En+AC0-mystery+AC0-07761,My wife feels glad.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my wife,female,,joy,glad
+2018+AC0-En+AC0-mystery+AC0-08498,My wife feels relieved.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my wife,female,,joy,relieved
+2018+AC0-En+AC0-mystery+AC0-14198,My wife feels excited.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my wife,female,,joy,excited
+2018+AC0-En+AC0-mystery+AC0-10043,My girlfriend feels angry.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my girlfriend,female,,anger,angry
+2018+AC0-En+AC0-mystery+AC0-11808,My girlfriend feels furious.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my girlfriend,female,,anger,furious
+2018+AC0-En+AC0-mystery+AC0-16098,My girlfriend feels irritated.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my girlfriend,female,,anger,irritated
+2018+AC0-En+AC0-mystery+AC0-03665,My girlfriend feels enraged.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my girlfriend,female,,anger,enraged
+2018+AC0-En+AC0-mystery+AC0-15107,My girlfriend feels annoyed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my girlfriend,female,,anger,annoyed
+2018+AC0-En+AC0-mystery+AC0-11692,My girlfriend feels sad.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my girlfriend,female,,sadness,sad
+2018+AC0-En+AC0-mystery+AC0-00094,My girlfriend feels depressed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my girlfriend,female,,sadness,depressed
+2018+AC0-En+AC0-mystery+AC0-11296,My girlfriend feels devastated.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my girlfriend,female,,sadness,devastated
+2018+AC0-En+AC0-mystery+AC0-10912,My girlfriend feels miserable.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my girlfriend,female,,sadness,miserable
+2018+AC0-En+AC0-mystery+AC0-00003,My girlfriend feels disappointed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my girlfriend,female,,sadness,disappointed
+2018+AC0-En+AC0-mystery+AC0-00383,My girlfriend feels terrified.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my girlfriend,female,,fear,terrified
+2018+AC0-En+AC0-mystery+AC0-11837,My girlfriend feels discouraged.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my girlfriend,female,,fear,discouraged
+2018+AC0-En+AC0-mystery+AC0-04691,My girlfriend feels scared.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my girlfriend,female,,fear,scared
+2018+AC0-En+AC0-mystery+AC0-09249,My girlfriend feels anxious.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my girlfriend,female,,fear,anxious
+2018+AC0-En+AC0-mystery+AC0-11094,My girlfriend feels fearful.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my girlfriend,female,,fear,fearful
+2018+AC0-En+AC0-mystery+AC0-15548,My girlfriend feels happy.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my girlfriend,female,,joy,happy
+2018+AC0-En+AC0-mystery+AC0-06023,My girlfriend feels ecstatic.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my girlfriend,female,,joy,ecstatic
+2018+AC0-En+AC0-mystery+AC0-09766,My girlfriend feels glad.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my girlfriend,female,,joy,glad
+2018+AC0-En+AC0-mystery+AC0-12907,My girlfriend feels relieved.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my girlfriend,female,,joy,relieved
+2018+AC0-En+AC0-mystery+AC0-15492,My girlfriend feels excited.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my girlfriend,female,,joy,excited
+2018+AC0-En+AC0-mystery+AC0-08902,My mother feels angry.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mother,female,,anger,angry
+2018+AC0-En+AC0-mystery+AC0-09367,My mother feels furious.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mother,female,,anger,furious
+2018+AC0-En+AC0-mystery+AC0-13125,My mother feels irritated.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mother,female,,anger,irritated
+2018+AC0-En+AC0-mystery+AC0-09933,My mother feels enraged.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mother,female,,anger,enraged
+2018+AC0-En+AC0-mystery+AC0-06246,My mother feels annoyed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mother,female,,anger,annoyed
+2018+AC0-En+AC0-mystery+AC0-03939,My mother feels sad.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mother,female,,sadness,sad
+2018+AC0-En+AC0-mystery+AC0-10617,My mother feels depressed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mother,female,,sadness,depressed
+2018+AC0-En+AC0-mystery+AC0-14939,My mother feels devastated.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mother,female,,sadness,devastated
+2018+AC0-En+AC0-mystery+AC0-11894,My mother feels miserable.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mother,female,,sadness,miserable
+2018+AC0-En+AC0-mystery+AC0-15327,My mother feels disappointed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mother,female,,sadness,disappointed
+2018+AC0-En+AC0-mystery+AC0-11153,My mother feels terrified.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mother,female,,fear,terrified
+2018+AC0-En+AC0-mystery+AC0-08966,My mother feels discouraged.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mother,female,,fear,discouraged
+2018+AC0-En+AC0-mystery+AC0-10420,My mother feels scared.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mother,female,,fear,scared
+2018+AC0-En+AC0-mystery+AC0-02880,My mother feels anxious.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mother,female,,fear,anxious
+2018+AC0-En+AC0-mystery+AC0-14087,My mother feels fearful.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mother,female,,fear,fearful
+2018+AC0-En+AC0-mystery+AC0-11218,My mother feels happy.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mother,female,,joy,happy
+2018+AC0-En+AC0-mystery+AC0-12470,My mother feels ecstatic.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mother,female,,joy,ecstatic
+2018+AC0-En+AC0-mystery+AC0-05817,My mother feels glad.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mother,female,,joy,glad
+2018+AC0-En+AC0-mystery+AC0-11307,My mother feels relieved.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mother,female,,joy,relieved
+2018+AC0-En+AC0-mystery+AC0-15564,My mother feels excited.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mother,female,,joy,excited
+2018+AC0-En+AC0-mystery+AC0-00208,My aunt feels angry.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my aunt,female,,anger,angry
+2018+AC0-En+AC0-mystery+AC0-12036,My aunt feels furious.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my aunt,female,,anger,furious
+2018+AC0-En+AC0-mystery+AC0-11516,My aunt feels irritated.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my aunt,female,,anger,irritated
+2018+AC0-En+AC0-mystery+AC0-04454,My aunt feels enraged.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my aunt,female,,anger,enraged
+2018+AC0-En+AC0-mystery+AC0-16647,My aunt feels annoyed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my aunt,female,,anger,annoyed
+2018+AC0-En+AC0-mystery+AC0-12754,My aunt feels sad.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my aunt,female,,sadness,sad
+2018+AC0-En+AC0-mystery+AC0-07579,My aunt feels depressed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my aunt,female,,sadness,depressed
+2018+AC0-En+AC0-mystery+AC0-06998,My aunt feels devastated.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my aunt,female,,sadness,devastated
+2018+AC0-En+AC0-mystery+AC0-01390,My aunt feels miserable.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my aunt,female,,sadness,miserable
+2018+AC0-En+AC0-mystery+AC0-09233,My aunt feels disappointed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my aunt,female,,sadness,disappointed
+2018+AC0-En+AC0-mystery+AC0-07833,My aunt feels terrified.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my aunt,female,,fear,terrified
+2018+AC0-En+AC0-mystery+AC0-01793,My aunt feels discouraged.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my aunt,female,,fear,discouraged
+2018+AC0-En+AC0-mystery+AC0-02940,My aunt feels scared.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my aunt,female,,fear,scared
+2018+AC0-En+AC0-mystery+AC0-03341,My aunt feels anxious.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my aunt,female,,fear,anxious
+2018+AC0-En+AC0-mystery+AC0-14107,My aunt feels fearful.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my aunt,female,,fear,fearful
+2018+AC0-En+AC0-mystery+AC0-06782,My aunt feels happy.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my aunt,female,,joy,happy
+2018+AC0-En+AC0-mystery+AC0-14017,My aunt feels ecstatic.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my aunt,female,,joy,ecstatic
+2018+AC0-En+AC0-mystery+AC0-07117,My aunt feels glad.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my aunt,female,,joy,glad
+2018+AC0-En+AC0-mystery+AC0-05974,My aunt feels relieved.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my aunt,female,,joy,relieved
+2018+AC0-En+AC0-mystery+AC0-05762,My aunt feels excited.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my aunt,female,,joy,excited
+2018+AC0-En+AC0-mystery+AC0-03234,My mom feels angry.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mom,female,,anger,angry
+2018+AC0-En+AC0-mystery+AC0-13430,My mom feels furious.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mom,female,,anger,furious
+2018+AC0-En+AC0-mystery+AC0-14576,My mom feels irritated.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mom,female,,anger,irritated
+2018+AC0-En+AC0-mystery+AC0-15360,My mom feels enraged.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mom,female,,anger,enraged
+2018+AC0-En+AC0-mystery+AC0-08529,My mom feels annoyed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mom,female,,anger,annoyed
+2018+AC0-En+AC0-mystery+AC0-01797,My mom feels sad.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mom,female,,sadness,sad
+2018+AC0-En+AC0-mystery+AC0-12431,My mom feels depressed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mom,female,,sadness,depressed
+2018+AC0-En+AC0-mystery+AC0-03196,My mom feels devastated.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mom,female,,sadness,devastated
+2018+AC0-En+AC0-mystery+AC0-11656,My mom feels miserable.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mom,female,,sadness,miserable
+2018+AC0-En+AC0-mystery+AC0-06245,My mom feels disappointed.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mom,female,,sadness,disappointed
+2018+AC0-En+AC0-mystery+AC0-16378,My mom feels terrified.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mom,female,,fear,terrified
+2018+AC0-En+AC0-mystery+AC0-14207,My mom feels discouraged.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mom,female,,fear,discouraged
+2018+AC0-En+AC0-mystery+AC0-10660,My mom feels scared.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mom,female,,fear,scared
+2018+AC0-En+AC0-mystery+AC0-02308,My mom feels anxious.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mom,female,,fear,anxious
+2018+AC0-En+AC0-mystery+AC0-12091,My mom feels fearful.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mom,female,,fear,fearful
+2018+AC0-En+AC0-mystery+AC0-16009,My mom feels happy.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mom,female,,joy,happy
+2018+AC0-En+AC0-mystery+AC0-05344,My mom feels ecstatic.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mom,female,,joy,ecstatic
+2018+AC0-En+AC0-mystery+AC0-02311,My mom feels glad.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mom,female,,joy,glad
+2018+AC0-En+AC0-mystery+AC0-09109,My mom feels relieved.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mom,female,,joy,relieved
+2018+AC0-En+AC0-mystery+AC0-08194,My mom feels excited.,+ADw-person subject+AD4- feels +ADw-emotion word+AD4-.,my mom,female,,joy,excited
